@@ -1,3 +1,5 @@
+# ml-iris-prediction-app
+"A Flask-based API for predicting Iris flower species using a pre-trained machine learning model. Includes endpoints for making predictions and testing the API."
 # ml-iris-app
 
 This project implements a basic machine learning model using the Iris dataset with scikit-learn and deploys the model using Flask or FastAPI.
